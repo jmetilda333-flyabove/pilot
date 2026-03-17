@@ -2,6 +2,6 @@
 
 for ((i=1;i<=50;i++))
 do
-	echo  $i
+	echo  "Number of $i"
 done
 
